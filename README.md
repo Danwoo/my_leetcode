@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Danwoo/my_leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Danwoo/my_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Danwoo/my_leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Danwoo/my_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Danwoo/my_leetcode/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Danwoo/my_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Danwoo/my_leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
