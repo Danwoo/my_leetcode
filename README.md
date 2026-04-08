@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Danwoo/my_leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Danwoo/my_leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Danwoo/my_leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Danwoo/my_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/Danwoo/my_leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Danwoo/my_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Danwoo/my_leetcode/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Danwoo/my_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
