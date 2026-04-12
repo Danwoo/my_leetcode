@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Danwoo/my_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Danwoo/my_leetcode/tree/master/0014-longest-common-prefix) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Danwoo/my_leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Trie
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Danwoo/my_leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Danwoo/my_leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Matrix
 |  |
