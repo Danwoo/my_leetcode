@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Danwoo/my_leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Danwoo/my_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Danwoo/my_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Danwoo/my_leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Danwoo/my_leetcode/tree/master/0002-add-two-numbers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Danwoo/my_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Danwoo/my_leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Danwoo/my_leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Danwoo/my_leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
