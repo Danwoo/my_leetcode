@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Danwoo/my_leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Danwoo/my_leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2463-minimum-total-distance-traveled](https://github.com/Danwoo/my_leetcode/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Danwoo/my_leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Danwoo/my_leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Danwoo/my_leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Danwoo/my_leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Danwoo/my_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Danwoo/my_leetcode/tree/master/0014-longest-common-prefix) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Danwoo/my_leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Danwoo/my_leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Trie
 |  |
 | ------- |
