@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Danwoo/my_leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Danwoo/my_leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Danwoo/my_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Danwoo/my_leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Danwoo/my_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Danwoo/my_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Danwoo/my_leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Danwoo/my_leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Danwoo/my_leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Danwoo/my_leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Danwoo/my_leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Danwoo/my_leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Simulation
 |  |
 | ------- |
